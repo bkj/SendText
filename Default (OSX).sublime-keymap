@@ -1,3 +1,4 @@
 [
-{ "keys": ["super+enter"], "command": "send_selection" }
+{ "keys": ["super+enter"], "command": "send_selection" },
+{ "keys": ["super+shift+enter"], "command": "send_selection_slow" }
 ]
